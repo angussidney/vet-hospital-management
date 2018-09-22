@@ -1,0 +1,25 @@
+Pets
+type cat
+size small
+name Lara
+weight 4
+age 5
+doctor Maria
+type dog
+size large
+name Biro
+weight 15
+age 12
+doctor Maria
+type cat
+size large
+name Benny
+weight 7
+age 10
+doctor no doctor assigned
+Doctors
+name Maria
+specialisation dog
+name Joao
+specialisation cat
+
