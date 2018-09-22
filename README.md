@@ -2,7 +2,7 @@
 
 Clone the respository, compile the code and run the Hospital class:
 
-    git clone https://github.com/angussidney/vet-hospital-management
+    git clone https://github.com/angussidney/vet-hospital-management.git
     cd vet-hospital-management
     javac *.java
     java Hospital
